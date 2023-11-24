@@ -1,0 +1,11 @@
+C:\Games\KSP2\Source\EnhancedPartsTray\EnhancedPartsTray\bin\Debug\netstandard2.1\EnhancedPartsTray.deps.json
+C:\Games\KSP2\Source\EnhancedPartsTray\EnhancedPartsTray\bin\Debug\netstandard2.1\EnhancedPartsTray.dll
+C:\Games\KSP2\Source\EnhancedPartsTray\EnhancedPartsTray\bin\Debug\netstandard2.1\EnhancedPartsTray.pdb
+C:\Games\KSP2\Source\EnhancedPartsTray\EnhancedPartsTray\obj\Debug\netstandard2.1\EnhancedPartsTray.csproj.AssemblyReference.cache
+C:\Games\KSP2\Source\EnhancedPartsTray\EnhancedPartsTray\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Games\KSP2\Source\EnhancedPartsTray\EnhancedPartsTray\obj\Debug\netstandard2.1\EnhancedPartsTray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\KSP2\Source\EnhancedPartsTray\EnhancedPartsTray\obj\Debug\netstandard2.1\EnhancedPartsTray.AssemblyInfoInputs.cache
+C:\Games\KSP2\Source\EnhancedPartsTray\EnhancedPartsTray\obj\Debug\netstandard2.1\EnhancedPartsTray.AssemblyInfo.cs
+C:\Games\KSP2\Source\EnhancedPartsTray\EnhancedPartsTray\obj\Debug\netstandard2.1\EnhancedPartsTray.csproj.CoreCompileInputs.cache
+C:\Games\KSP2\Source\EnhancedPartsTray\EnhancedPartsTray\obj\Debug\netstandard2.1\EnhancedPartsTray.dll
+C:\Games\KSP2\Source\EnhancedPartsTray\EnhancedPartsTray\obj\Debug\netstandard2.1\EnhancedPartsTray.pdb

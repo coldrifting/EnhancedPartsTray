@@ -1,0 +1,19 @@
+{
+  "spec": "2.0",
+  "mod_id": "EnhancedPartsTray",
+  "name": "Enhanced Parts Tray",
+  "author": "Coldrifting",
+  "description": "Configure various options related to the VAB Parts Tray",
+  "source": "",
+  "version": "0.1.0",
+  "dependencies": [
+    {
+      "id": "com.github.x606.spacewarp",
+      "version": {
+        "min": "1.5.1",
+        "max": "*"
+      }
+    }
+  ],
+  "conflicts": []
+}
