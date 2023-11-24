@@ -1,4 +1,6 @@
 ﻿# EnhancedPartsTray
+ 
+![PartsTrayPreview](https://github.com/coldrifting/EnhancedPartsTray/assets/31460040/6c6a8b6b-485e-46f3-9d11-67fe92a95216)
 
 Adds several options to the KSP 2 VAB part picker.
 
